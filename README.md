@@ -1,1 +1,1 @@
-# -ICLR26-Free-Lunch-for-Stabilizing-Rectified-Flow-Inversion
+# [ICLR26] Free Lunch for Stabilizing Rectified Flow Inversion
